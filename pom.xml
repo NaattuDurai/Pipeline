@@ -4,7 +4,7 @@
 
   <groupId>Testfile</groupId>
   <artifactId>Testfile</artifactId>
-  <version>ND</version>
+  <version>ND1</version>
   <packaging>jar</packaging>
 
   <name>Testfile</name>
