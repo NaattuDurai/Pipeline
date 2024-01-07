@@ -4,8 +4,8 @@
 
   <groupId>Testfile</groupId>
   <artifactId>Testfile</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <version>ND</version>
+  <packaging>jar</packaging>
 
   <name>Testfile</name>
   <url>http://maven.apache.org</url>
