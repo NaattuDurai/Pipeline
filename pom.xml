@@ -23,6 +23,7 @@
     </dependencies>
 
     <build>
+	    <finalName>Apache9test</finalName>
         <plugins>
             <!-- Maven Compiler Plugin -->
             <plugin>
