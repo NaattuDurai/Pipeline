@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.sample</groupId>
-    <artifactId>SPro</artifactId>
+    <artifactId>Apache9test</artifactId>
     <version>0.1</version>
     <packaging>war</packaging>
-    <name>SP</name>
+    <name>Apache9test</name>
     <description>Checking the project to run in live</description>
     <properties>
 		<maven.version>3.8.8</maven.version>
@@ -23,8 +23,7 @@
     </dependencies>
 
     <build>
-	    <finalName>Apache9test</finalName>
-        <plugins>
+	            <plugins>
             <!-- Maven Compiler Plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
