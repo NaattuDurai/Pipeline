@@ -18,6 +18,8 @@ pipeline {
             steps {
                 // Build the Maven project
                 bat 'mvn clean install'
+               setx PATH "%PATH%;%JAVA_HOME%\bin"
+setx PATH "%PATH%;%MAVEN_HOME%\bin"
             }
         }
 
